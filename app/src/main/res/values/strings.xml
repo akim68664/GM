@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="enter_an_artist_name">Enter an Artist Name</string>
+    <string name="artistName">artistName</string>
+    <string name="TrackPrice">TrackPrice</string>
+    <string name="PrimaryGenreName">PrimaryGenreName</string>
+    <string name="TrackName">TrackName</string>
+    <string name="Release_Date">Release Date</string>
+
+</resources>
